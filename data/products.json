@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "productName": "iPhone 12 Morado",
+    "urlImage": "https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-12-spring21_lp_us_04202021.jpg.landing-big_2x.jpg"
+  },
+  {
+    "id": 2,
+    "productName": "iPhone 12 Lime",
+    "urlImage": "https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-12_color-green_10132020_big_carousel.jpg.large.jpg"
+  },
+  {
+    "id": 3,
+    "productName": "iPhone 12 Submarino",
+    "urlImage": "https://www.techspot.com/images2/news/bigimage/2020/10/2020-10-13-image-32-j_1100.webp"
+  }
+]
